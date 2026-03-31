@@ -1,88 +1,46 @@
-## Hi there 👋
+# Hi 👋 I'm Atmika Parey
 
-
-# I'm Atmika Parey
-
-🚀 **Software Engineer | Data Engineer | AI Systems Builder**
+🚀 Software Engineer | Data Engineer | AI Builder  
 
 ---
 
 ## 👩‍💻 About Me
-
-I'm a full-stack and data-focused engineer with experience building **scalable backend systems, real-time data pipelines, and AI-powered applications**.
-
-🎓 MS in Business Analytics @ UMass Amherst  
-🎓 BTech in Computer Science  @ UMass Amherst  
-💡 Passionate about **GenAI, distributed systems, and data-driven products**  
-⚡ I don’t just build — I build systems that scale and deliver measurable impact  
+MS Business Analytics @ UMass Amherst  
+I build scalable backend systems, data pipelines, and AI-powered applications.
 
 ---
 
-## 🧠 What I Work On
+## 💼 Experience
 
-- 🔹 Backend systems (FastAPI, microservices, REST APIs)
-- 🔹 Data pipelines (Kafka, Airflow, PostgreSQL)
-- 🔹 AI/ML systems (RAG, LLM apps, analytics)
-- 🔹 Full-stack apps (React, Streamlit)
+🔹 **Data Engineer (Volunteer)** — Community Dreams Foundation  
+Built RAG chatbot using FastAPI + Qdrant, improved retrieval efficiency  
 
----
+🔹 **Software Engineer Intern** — Datamind Analytics  
+Built ETL pipelines + AWS workflows, reduced manual effort by 40%  
 
-## 🚀 Featured Projects
-
-### 🔹 Sahai — AI Mental Wellness Platform
-- Built a full-stack AI-powered emotional analytics system  
-- Includes journaling, mood tracking, AI chat, and behavioral insights  
-- Designed analytics engine for trend detection + weekly AI summaries  
+🔹 **Software Engineer** — Netcast Service  
+Developed scalable APIs, optimized PostgreSQL queries, handled 10K+ daily requests  
 
 ---
 
-### 🔹 Real-Time Log Analytics Pipeline
-- Built Kafka + Airflow pipeline handling high-throughput event streams  
-- Designed scalable ingestion and monitoring system  
-- Reduced incident detection time by 35%  
+## 🚀 Projects
 
----
+🔹 **Sahai — AI Mental Wellness Platform**  
+Mood tracking, journaling, AI chat, and behavioral analytics  
 
-### 🔹 Enterprise GenAI Control Tower
-- Built production RAG system with hybrid retrieval  
-- Integrated MLflow for evaluation and performance tracking  
-- Designed FastAPI backend for scalable LLM workflows  
+🔹 **Real-Time Log Analytics Pipeline**  
+Kafka + Airflow pipeline for high-throughput data  
+
+🔹 **GenAI Control Tower (RAG System)**  
+Production-grade retrieval system with FastAPI + MLflow  
 
 ---
 
 ## 🛠 Tech Stack
-
-**Languages:** Python, SQL, JavaScript  
-**Backend:** FastAPI, Node.js, REST APIs  
-**Data:** Kafka, Airflow, PostgreSQL, Redshift  
-**AI/ML:** LLMs, RAG, Scikit-learn  
-**Cloud:** AWS (S3, Lambda, EC2), Docker  
+Python • SQL • FastAPI • React • Kafka • Airflow • PostgreSQL • AWS  
 
 ---
 
-## 📊 What Makes Me Different
-
-- I build **end-to-end systems**, not just features  
-- I combine **engineering + analytics + AI**  
-- I focus on **real-world impact, scalability, and performance**
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/atmika-manoj-parey  
-- 💻 GitHub: https://github.com/atmika1807  
-- 🌐 Portfolio: atmika-dev.vercel.app  
-
----
-
-## ⚡ Currently
-
-- Building AI-powered analytics platforms  
-- Exploring advanced LLM + RAG systems  
-- Looking for Backend / Data / AI roles  
-
----
-
-⭐ *If you like my work, feel free to connect or collaborate!*
-
+## 📫 Connect
+LinkedIn: https://www.linkedin.com/in/atmika-manoj-parey  
+Portfolio: atmika-dev.vercel.app  
