@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # I'm Atmika Parey
 
 🚀 **Software Engineer | Data Engineer | AI Systems Builder**
@@ -85,4 +85,4 @@ I'm a full-stack and data-focused engineer with experience building **scalable b
 ---
 
 ⭐ *If you like my work, feel free to connect or collaborate!*
--->
+
