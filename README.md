@@ -21,7 +21,7 @@
 
 ## 💼 Experience
 
-🔹 **Data Engineer (Volunteer)**  
+🔹 **Data Engineer**  
 Community Dreams Foundation  
 → Built RAG chatbot using FastAPI + Qdrant  
 
