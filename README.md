@@ -1,4 +1,5 @@
-# Hi, I'm Atmika Manoj Parey
+<p align="center"><img src="./header.svg" alt="Atmika Manoj Parey, data and AI engineer" width="100%"></p>
+# Hi, I'm Atmika
  
 **Software engineer, Data & AI.** I build production RAG systems, agentic workflows and streaming pipelines in Python. M.S. Business Analytics, UMass Amherst. Based in Mumbai, open to relocate, available as an immediate joiner.
  
